@@ -9,7 +9,8 @@ Be between the ages of 17-34. ...
 Have a high school diploma.
 Have no more than two dependents.
      */
-
+sout
+"Hello world"
         String citizen = "USA";
         boolean isResident = true;
         boolean isAlien = true;
